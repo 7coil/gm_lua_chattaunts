@@ -1,0 +1,16 @@
+{
+	"taunts": [
+		{
+			"download": true,
+			"location": "moustacheminer/chatsounds/pokemongen6/025Cry.wav",
+			"timeout": 15,
+			"trigger": "pikachu"
+		},
+		{
+			"download": true,
+			"location": "moustacheminer/chatsounds/pokemongen6/135Cry.wav",
+			"timeout": 15,
+			"trigger": "jolteon"
+		}
+	]
+}
